@@ -1,4 +1,7 @@
 <?php
+
+namespace Rikcon;
+
 /**
  * Liqpay Payment Module
  *
