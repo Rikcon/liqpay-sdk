@@ -1,16 +1,16 @@
 {
-    "name":"liqpay/liqpay",
+    "name":"Rikcon/liqpay-sdk",
     "type": "library",
     "description": "SDK for Liqpay",
-    "keywords": ["liqpay","pay"],
-    "homepage": "https://github.com/liqpay/sdk-php",
-    "version":"1.0.3",
+    "keywords": ["liqpay","pay", "rikcon"],
+    "homepage": "https://github.com/Rikcon/liqpay-sdk",
+    "version":"1.0.0",
     "license": "OSL 3.0",
     "authors": [
         {
-            "name": "Liqpay",
-            "email": "support@liqpay.com",
-            "homepage": "https://www.liqpay.com/",
+            "name": "Rikcon",
+            "email": "rikcon@yandex.ru",
+            "homepage": "https://odnosumov.me/",
             "role": "Developer"
         }
     ],
