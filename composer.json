@@ -1,5 +1,5 @@
 {
-    "name":"Rikcon/liqpay-sdk",
+    "name":"rikcon/liqpay-sdk",
     "type": "library",
     "description": "SDK for Liqpay",
     "keywords": ["liqpay","pay", "rikcon"],
